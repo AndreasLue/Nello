@@ -5,6 +5,7 @@ import matplotlib.pyplot as plt
 
 
 def main():
+    print("Bitte .")
     print("Bitte wählen Sie eine Excel- oder CSV-Datei aus.")
     root = tk.Tk()
     root.withdraw()
